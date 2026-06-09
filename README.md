@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abel Begashaw</h1>
-
 <p align="center">
-  Software Engineer • Flutter Developer • Product Builder
+  Software Engineer • FullStack Developer • Product Builder
 </p>
 
-<p align="center">
+<!--p align="center">
   Building intuitive digital experiences with Flutter, modern web technologies, and AI.
-</p>
+</p-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abelbegashaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ### 🚀 About Me
 
+- 🎓 Software Engineering | AAU Class of 2026
 - 🌐 Building end-to-end software solutions across the stack
 - 📱 Developing cross-platform applications with Flutter
 - 🎨 Creating intuitive and user-focused experiences
